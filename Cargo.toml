@@ -1,0 +1,13 @@
+[package]
+name = "my_vector"
+version = "0.1.0"
+edition = "2024"
+authors = ["ZenStarDev"]
+description = "Lightweight no-std dynamic resizable array (Vec)"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/ZenStarDev/my_vector"
+keywords = ["vector", "data-structures", "no-std", "alloc", "dynamic-array"]
+categories = ["data-structures", "no-std"]
+
+[dependencies]
